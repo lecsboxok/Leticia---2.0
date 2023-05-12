@@ -1,0 +1,19 @@
+.lado{
+    float: left;
+}
+
+.segunda{
+    clear: left;
+}
+
+.sol{
+    position: relative;
+    display: flex;
+    max-width: 100%;
+}
+
+div{
+    position: relative;
+    display: flex;
+    max-width: 100%;
+}

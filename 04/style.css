@@ -1,0 +1,31 @@
+.foco{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.linha{
+    justify-content: center;
+}
+
+div{
+    display: block;
+}
+
+.dado{
+    position: relative;
+    display: flex;
+    max-width: 100%;
+}
+
+.centro{
+    justify-content: center;
+}
+
+.slo{
+    margin-bottom: 30px;
+}
+
+.lolo{
+    position: relative;
+    width: 100%;
+}
