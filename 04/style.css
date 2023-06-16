@@ -1,31 +1,33 @@
-.foco{
-    padding-left: 30px;
-    padding-right: 30px;
+.img_banner{
+    width: 100%;
 }
 
-.linha{
-    justify-content: center;
-}
-
-div{
-    display: block;
-}
-
-.dado{
-    position: relative;
+.conteudo{
     display: flex;
+    position: relative;
+    justify-content: center;
     max-width: 100%;
 }
 
-.centro{
+.conteudo_menu{
     justify-content: center;
+    display: flex;
 }
 
-.slo{
-    margin-bottom: 30px;
+.pag_selecionada{
+    margin-right: 10px;
+    padding: 0 20px;
+    color: #fff;
+    border: 1px solid transparent;
+    background: #000;
+    height: 48px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-weight: 600;
 }
 
-.lolo{
-    position: relative;
-    width: 100%;
+.pag{
+    align-items: center;
 }
